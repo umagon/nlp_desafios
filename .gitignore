@@ -1,0 +1,5 @@
+.venv
+Desafios/Desafio_2/songs_dataset*
+Desafios/Desafio_2/labels.tsv
+Desafios/Desafio_2/vectors.tsv
+.DS_Store
