@@ -2,4 +2,6 @@
 Desafios/Desafio_2/songs_dataset*
 Desafios/Desafio_2/labels.tsv
 Desafios/Desafio_2/vectors.tsv
+Desafios/Desafio_4/data_volunteers.json
+Desafios/Desafio_4/gloveembedding.pkl
 .DS_Store
